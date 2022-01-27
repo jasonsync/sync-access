@@ -1,13 +1,13 @@
 {
   "name": "Sync Access",
   "short_name": "Sync Access",
-  "start_url": "http://192.168.88.253:8081/sync-access/",
+  "start_url": "https://asoundidea.co.za/sync-access/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "Sync Access",
   "icons": [{
-    "src": "SoT",
-    "sizes": "128x128",
+    "src": "SoT.png",
+    "sizes": "192x192",
     "type": "image/png"
   }]
 }
